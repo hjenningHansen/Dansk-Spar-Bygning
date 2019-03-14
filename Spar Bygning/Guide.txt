@@ -1,0 +1,8 @@
+Mappen '' Indeni (små detaljer):'' v_66_posters2.ydr'' samt '' v_66_counter.ydr'' og ''v_66_posters.ydr'' her er stien: GTA V > x64h.rpf > levels > gta5 > interiors > v_int_66.rpf
+--------------------------------------------------------------------------------------------------------------------------------
+Mappen: '' Bygningen'': '' sc1_03_build2.ydr'' her er stien: Gta v > x64k.rpf > levels > gta5 > scentral_01 > sc1_03.rpf
+--------------------------------------------------------------------------------------------------------------------------------
+Mappen '' Døre'': ''v_ilev_247door.yft'' og ''v_ilev_247door_r.yft'' her er stien: GTA V > x64h.rpf > levels > gta5 > interiors > int_lev_des.rpf
+---------------------------------------------------------------------------------------------------------------------------------
+Mappen '' Vinduer'': ''v_ret_247_win1.yft'' samt ''v_ret_247_win2.yft'' og ''v_ret_247_win3.yft'' her er stien: GTA V > x64h.rpf > levels > gta5 > int_props > int_retail.rpf
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
